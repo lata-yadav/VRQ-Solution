@@ -1,0 +1,15 @@
+.patients-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .patients-list ul li {
+    padding: 10px 0;
+  }
+  
+  .patients-list ul li a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  

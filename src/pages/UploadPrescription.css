@@ -1,0 +1,21 @@
+.upload-prescription form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .upload-prescription form label {
+    margin: 10px 0 5px;
+  }
+  
+  .upload-prescription form input {
+    margin-bottom: 20px;
+  }
+  
+  .upload-prescription form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  

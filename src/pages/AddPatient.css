@@ -1,0 +1,22 @@
+.add-patient form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-patient form label {
+    margin: 10px 0 5px;
+  }
+  
+  .add-patient form input {
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .add-patient form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
